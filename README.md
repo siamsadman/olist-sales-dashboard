@@ -117,4 +117,6 @@ All three pages share a synced filter panel (Year, State, Category) and include 
 
 ## About
 
-Built by Siam Sadman as part of a portfolio project during a job search transition. [ www.linkedin.com/in/siam-sadman ]
+Built by Siam Sadman as part of a portfolio project during a job search transition.
+
+www.linkedin.com/in/siam-sadman
