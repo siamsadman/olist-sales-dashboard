@@ -4,6 +4,9 @@ A 3-page Power BI dashboard analyzing sales, category, and customer/payment perf
 
 **[.pbix Download ▸](dashboard/olist_sales_dashboard.pbix)**
 
+> **About this project:** I'm a Senior BI/Reporting Analyst with 9+ years of experience building automated reporting pipelines and Power BI dashboards in production environments. This project — recently completed alongside earning the Microsoft PL-300 certification — is a from-scratch demonstration of that same end-to-end process on a public dataset: raw data, real data quality problems, a fully modeled star schema, and dashboard design, documented the way I'd document a production deliverable. [Connect on LinkedIn](https://www.linkedin.com/in/siam-sadman)
+> 
+
 ![Executive Overview](images/page1_executive_overview.png)
 
 ---
