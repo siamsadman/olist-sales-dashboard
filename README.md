@@ -77,11 +77,21 @@ Real datasets are messy. Documenting these decisions is, in my view, more valuab
 ### 1. Executive Overview
 Top-line KPIs, revenue trend, geographic distribution, and category leaders — the 30-second summary.
 
+![Executive Overview](images/page1_executive_overview.png)
+
+
+
 ### 2. Category & Product Deep Dive
 Category performance table, revenue concentration (treemap), top/bottom performers, and price distribution.
+![Category & Product Deep Dive](images/page2_category_deep_dive.png)
+
+
 
 ### 3. Customer & Payment Insights
 Payment method behavior, installment patterns, new vs. repeat customer split, and state-level loyalty comparison.
+
+![Customer & Payment Insights](images/page3_customer_payment.png)
+
 
 All three pages share a synced filter panel (Year, State, Category) and include both auto-generated statistical highlights (Power BI Smart Insights) and hand-authored analyst takeaways — the callout boxes are dynamic DAX measures that update live with the applied filters, not static text.
 
