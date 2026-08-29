@@ -5,11 +5,10 @@ A 3-page Power BI dashboard analyzing sales, category, and customer/payment perf
 **[.pbix Download ▸](dashboard/olist_sales_dashboard.pbix)**
 
 > **About this project:** I'm a BI Developer and Reporting Analyst with 12+ years building automated reporting pipelines and Power BI dashboards in production, for clients including British American Tobacco Bangladesh, Arnott's Australia, and TOLL Australia. This project is a from-scratch demonstration of that same end-to-end process on a public dataset — raw data with real quality problems, a fully modeled star schema, and dashboards, with every DAX measure validated against independent SQL. Documented the way I'd document a production deliverable.
-
-Microsoft certified: DP-600 (Fabric Analytics Engineer Associate), PL-300 (Power BI Data Analyst Associate).
-
-[Connect on LinkedIn](https://www.linkedin.com/in/siam-sadman)
-> 
+>
+> Microsoft certified: DP-600 (Fabric Analytics Engineer Associate), PL-300 (Power BI Data Analyst Associate).
+>
+> [Connect on LinkedIn](https://www.linkedin.com/in/siam-sadman)
 
 ![Executive Overview](images/page1_executive_overview.png)
 
