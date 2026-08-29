@@ -1,6 +1,6 @@
 # Olist E-Commerce — Sales & Revenue Performance Dashboard
 
-A 3-page Power BI dashboard analyzing sales, category, and customer/payment performance for Olist, a Brazilian multi-vendor e-commerce marketplace. Built end-to-end from raw CSVs — data cleaning, star schema design, DAX modeling, and dashboard design.
+A 3-page Power BI dashboard analyzing sales, category, and customer/payment performance for Olist, a Brazilian multi-vendor e-commerce marketplace. Built end-to-end from raw CSVs - data cleaning, dimensional model design, DAX modeling, and dashboard design. First in a 3-part portfolio series on the Olist dataset ([Part 2: Logistics & Delivery Performance](https://github.com/siamsadman/olist-logistics-dashboard) · [Part 3: Customer Satisfaction & Reviews](https://github.com/siamsadman/olist-customer-satisfaction-dashboard)).
 
 **[.pbix Download ▸](dashboard/olist_sales_dashboard.pbix)**
 
